@@ -1,0 +1,2 @@
+variable "membershipusername" {}
+variable "membershipgroupname" {}
